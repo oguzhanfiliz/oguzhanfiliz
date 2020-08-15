@@ -9,7 +9,7 @@
 
 ## Characteristic Features 
 * I'm Cheerful
-* I'm from GASTAMONU
+* I'm from Kastamonu
 * I lived in Kütahya
 * Software freak
 * I love tea and coffee
