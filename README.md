@@ -14,3 +14,6 @@
 * Software freak
 * I love tea and coffee
 * Reading news about technology
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanfiliz&layout=compact)](https://github.com/oguzhanfiliz/oguzhanfiliz)
