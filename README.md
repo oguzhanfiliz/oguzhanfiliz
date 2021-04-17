@@ -17,3 +17,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanfiliz&layout=compact)](https://github.com/oguzhanfiliz/oguzhanfiliz)
+![OguzhanFiliz's GitHub stats](https://github-readme-stats.vercel.app/api?oguzhanfiliz=anuraghazra&show_icons=true&theme=dark)
