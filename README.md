@@ -1,5 +1,5 @@
 # Welcome!
-![sss](https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif?style=margin-left:50px)
+![sss](https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh)
 
 # Who Am I {My favorite movie}
 ## Education
@@ -16,5 +16,5 @@
 * Reading news about technology
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanfiliz&layout=compact&langs_count=10)](https://github.com/oguzhanfiliz/oguzhanfiliz)
-![OguzhanFiliz's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzhanfiliz&show_icons=true&theme=dark)
+<a href="https://github.com/oguzhanfiliz/github-readme-stats" style="width:55%"><img alt="Oguzhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oguzhanfiliz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/oguzhanfiliz/github-readme-stats"  style="width:40%"><img alt="Oguzhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?
