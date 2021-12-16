@@ -1,5 +1,5 @@
 # Welcome!
-![sss](https://giphy.com/embed/VTtANKl0beDFQRLDTh)
+![sss](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?style=margin-left:50px)
 
 # Who Am I {My favorite movie}
 ## Education
@@ -16,4 +16,5 @@
 * Reading news about technology
 
 
-<a href="https://github.com/oguzhanfiliz/github-readme-stats" style="width:55%"><img alt="Oguzhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oguzhanfiliz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanfiliz&layout=compact&langs_count=10)](https://github.com/oguzhanfiliz/oguzhanfiliz)
+![OguzhanFiliz's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzhanfiliz&show_icons=true&theme=dark)
