@@ -1,5 +1,5 @@
 # Welcome!
-![sss](https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh)
+![sss](https://giphy.com/embed/VTtANKl0beDFQRLDTh)
 
 # Who Am I {My favorite movie}
 ## Education
@@ -17,4 +17,3 @@
 
 
 <a href="https://github.com/oguzhanfiliz/github-readme-stats" style="width:55%"><img alt="Oguzhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oguzhanfiliz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/oguzhanfiliz/github-readme-stats"  style="width:40%"><img alt="Oguzhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?
